@@ -31,7 +31,7 @@ style.CSS >
     text-decoration: none;
     padding: 10px 15px;
 }
-.dropdow .content{
+.dropdown .content{
     display: none;
     position: absolute;
     background-color: hs1(0, 0%, 95%); 
