@@ -1,5 +1,5 @@
 # worldle
-index.html>
+index.HTML>
 
 </head>
 <body>
@@ -14,7 +14,7 @@ index.html>
    </div>
 
               
-style.css >
+style.CSS >
 .dropdown{
     display: inline-block;
 }
